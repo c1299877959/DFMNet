@@ -5,7 +5,7 @@ DFMM is designed to adapt to various backbones and enhances both counting accura
 
 🚀 Features
 
-🔧 Plug-and-Play: Easily integrates with different backbones (ResNet, CSRNet, etc.).
+🔧 Plug-and-Play: Easily integrates with different backbones (BL, CSRNet).
 
 📊 Consistent Accuracy Gains: Improves counting accuracy across multiple datasets.
 
