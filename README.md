@@ -13,5 +13,5 @@ DFMM is designed to adapt to various backbones and enhances both counting accura
 
 ⚡ Efficient: Reduces GFLOPs while maintaining or improving accuracy.
 
-  You can obtain the pretrained weight files for the RGBT-CC dataset through the following link:
+  You can obtain the weight files for the RGBT-CC dataset through the following link:
    https://pan.baidu.com/s/1NyO2FlS9f43OzxOX-aMufg 提取码: hj7j
